@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ozkanerbatu
-- 👀 I’m interested in Mobile App development
+- 👀 I’m interested in Frontend, Backen and Mobile App development
 - 🌱 I’m currently learning React, React Native, Node.js
 - 📫 How to reach me ozkanerbatuhan@gmail.com
 
